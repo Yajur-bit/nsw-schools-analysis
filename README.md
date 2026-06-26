@@ -76,23 +76,16 @@ The starkest illustration: a 2,317-student gap between the largest school (The P
 
 ## Repository Contents
 
-nsw-schools-analysis/
+## Repository Contents
 
-├── nsw_schools_analysis.R     # full analysis pipeline
-
-├── report.pdf                 # written report with all five figures
-
-├── plot1_histogram_enrolment.png
-
-├── plot2_map_screenshot.png
-
-├── plot3_boxplot_schooltype.png
-
-├── plot4_heatmap_type_remoteness.png
-
-├── plot5_scatter_foei_enrolment.png
-
-└── README.md
----
+    nsw-schools-analysis/
+    ├── nsw_schools_analysis.R     full analysis pipeline
+    ├── report.pdf                 written report with all five figures
+    ├── plot1_histogram_enrolment.png
+    ├── plot2_map_screenshot.png
+    ├── plot3_boxplot_schooltype.png
+    ├── plot4_heatmap_type_remoteness.png
+    ├── plot5_scatter_foei_enrolment.png
+    └── README.md
 
 *Analysis by Yajur Bhardwaj. Data source: NSW Department of Education via Data.NSW.*
