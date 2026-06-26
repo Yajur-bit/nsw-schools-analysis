@@ -74,7 +74,6 @@ The starkest illustration: a 2,317-student gap between the largest school (The P
 
 ---
 
-## Repository Contents
 
 ## Repository Contents
 
